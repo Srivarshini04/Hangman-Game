@@ -45,6 +45,7 @@ cd hangman-game
 python hangman.py
 
 ->Screenshots
+
 Go to the screeshot folder to view the screenshots of the game
 
 ->Contributions
