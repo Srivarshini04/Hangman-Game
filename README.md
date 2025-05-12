@@ -44,6 +44,9 @@ cd hangman-game
 
 python hangman.py
 
+->Screenshots
+Go to the screeshot folder to view the screenshots of the game
+
 ->Contributions
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
